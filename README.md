@@ -1,2 +1,1 @@
-# resume
-just my resume i guess
+css stylesheet were taken from [here](https://gist.github.com/killercup/5917178)
